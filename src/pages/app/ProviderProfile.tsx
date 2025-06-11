@@ -1,0 +1,11 @@
+import React from 'react';
+
+const ProviderProfile: React.FC = () => {
+  return (
+    <div className="container mx-auto px-4 py-8">
+      <h1 className="text-2xl font-bold text-gray-900">Provider Profile</h1>
+    </div>
+  );
+};
+
+export default ProviderProfile;
